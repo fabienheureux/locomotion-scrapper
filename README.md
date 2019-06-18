@@ -9,7 +9,7 @@ It is strongly advised that you make use of pipenv, if so, let's run
 ```
 pipenv shell
 ```
-inside scrapper directory.
+inside `scrapper` directory.
 ## Running
 You can run the command below to trigger scraping of urls specified in spiders files 
 ```
